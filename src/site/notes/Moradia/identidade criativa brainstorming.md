@@ -4,7 +4,9 @@
 
 --- 
 
-link p o repositorio: https://jeffinhogithub.github.io/toatoacriativo
+link p o repositorio: https://toatoacriativo.vercel.app
+
+essa primeira pagina é mais global, serve pra introduzir nóis pra um pensamento mais profundo sobre o tema, as considerações sobre faroeste mesmo ta no link no final da pagina; pedi pra IA fzr uma especie de guia sobre criação de tema pensando nele como uma historia, que pe bem diferene de um evento, mas da pra traçar paralelos baseado noq cada coisa q ele vai citar significa pra uma historia 
 ## Elementos Essenciais para a Criação de uma Obra
 
 A criação de uma obra robusta e com identidade forte, seja ela um livro, um filme, um jogo ou qualquer outra forma de arte, exige mais do que apenas uma boa ideia. É preciso uma estrutura sólida que garanta coerência e profundidade. Aqui está uma lista de elementos essenciais para um brainstorming detalhado, servindo como um modelo genérico para suas futuras criações.
